@@ -1,28 +1,4 @@
-Trae
 
-13 context(s) used
-
-ASTNode.cs
-
-ArrayDeclarationNode.cs
-
-ArrayAccessNode.cs
-
-SemanticAnalyzer.cs
-
-Token.cs
-
-CallNode.cs
-
-... More ( 7 +)
-
-I need to check if the README.md file exists and what content it has before enhancing it with more details about the project files.
-
-README.md :( 1 - 100 )
-
-I need to check if the README.md file exists and what its content is. Let me search for it in the codebase.
-
-Search in the workspace
 
 # MiniLang Compiler Project
 A comprehensive compiler implementation for the MiniLang programming language, built in C#. This project demonstrates the complete compilation pipeline from lexical analysis to intermediate code generation.
