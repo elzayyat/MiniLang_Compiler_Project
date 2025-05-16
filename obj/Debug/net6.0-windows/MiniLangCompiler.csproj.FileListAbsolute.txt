@@ -1,0 +1,14 @@
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\compiler_project\bin\Debug\net6.0-windows\MiniLangCompiler.exe
+C:\Users\Mohamed\Desktop\compiler_project\bin\Debug\net6.0-windows\MiniLangCompiler.deps.json
+C:\Users\Mohamed\Desktop\compiler_project\bin\Debug\net6.0-windows\MiniLangCompiler.runtimeconfig.json
+C:\Users\Mohamed\Desktop\compiler_project\bin\Debug\net6.0-windows\MiniLangCompiler.dll
+C:\Users\Mohamed\Desktop\compiler_project\bin\Debug\net6.0-windows\MiniLangCompiler.pdb
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.dll
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\refint\MiniLangCompiler.dll
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.pdb
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\MiniLangCompiler.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0-windows\ref\MiniLangCompiler.dll

@@ -1,0 +1,4 @@
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0\MiniLangCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0\MiniLangCompiler.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0\MiniLangCompiler.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\compiler_project\obj\Debug\net6.0\MiniLangCompiler.csproj.CoreCompileInputs.cache
